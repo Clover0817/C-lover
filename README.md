@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jerry-me08(actually, Jerry is my cat, call me Nayeon :>)
 - 👀 I’m interested in programming♡
-- 🌱 I’m currently learning c, java Language!
+- 🌱 I’m currently learning c, java Language(also, learning 'bout software, hardware!)
 - 💞️ I'm college student, my major is computer science!
 - 📫 How to reach me -> skdus3373@naver.com
 
