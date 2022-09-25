@@ -1,4 +1,4 @@
-💪About me
+<h3>💪About me</h3>
 - 👋 Hi, I’m @Clover0817(you can call me Nayeon:>) 
 - 👀 I’m interested in BE development♡ 
 - 🌱 I use c&java Language mostly
@@ -6,7 +6,7 @@
 - 📫 How to reach me -> skdus3373@gmail.com(skdus3373@naver.com)
 
 <br>
-💪Skills
+<h3>💪Skills</h3>
 <img
   src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
 />
@@ -27,7 +27,7 @@
 />
 
 <br>
-💪Stat
+<h3>💪Stat</h3>
 ![Clover0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover0817&theme=dracula&show_icons=true)
 
 
