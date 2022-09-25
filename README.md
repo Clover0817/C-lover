@@ -7,7 +7,6 @@
 
 <br>
 💪Skills
-<br>
 <img
   src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
 />
@@ -29,7 +28,6 @@
 
 <br>
 💪Stat
-<br>
 ![Clover0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover0817&theme=dracula&show_icons=true)
 
 
