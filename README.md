@@ -26,7 +26,8 @@
 />
 
 <h3>💪Stat</h3>
-![Clover0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover0817&theme=dracula&show_icons=true)
+![Clover0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover0817&show_icons=true&theme=dracula)
+
 
 
 <!---
