@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 - 👋 Hi, I’m @Clover0817(you can call me Nayeon:>) 
 - 👀 I’m interested in BE development♡ 
 - 🌱 I use c&java Language mostly
