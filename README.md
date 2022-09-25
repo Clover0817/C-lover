@@ -1,10 +1,10 @@
-<p align="center">
+<h4 align="center">
 - 👋 Hi, I’m @Clover0817(you can call me Nayeon:>) 
 - 👀 I’m interested in BE development♡ 
 - 🌱 I use c&java Language mostly
 - 💞️ I'm college student, my major is Computer Science!
 - 📫 How to reach me -> skdus3373@gmail.com(skdus3373@naver.com)
-
+</h4>
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
