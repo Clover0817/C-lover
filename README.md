@@ -5,7 +5,6 @@
 - 💞️ I'm college student, my major is Computer Science!
 - 📫 How to reach me -> skdus3373@gmail.com(skdus3373@naver.com)
 
-<br>
 <h3>💪Skills</h3>
 <img
   src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
@@ -26,7 +25,6 @@
   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"
 />
 
-<br>
 <h3>💪Stat</h3>
 ![Clover0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover0817&theme=dracula&show_icons=true)
 
