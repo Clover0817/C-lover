@@ -1,8 +1,8 @@
 💪About me
-- 👋 Hi, I’m @Clover0817(you can call me Nayeon:>) 
-- 👀 For now, I’m interested in BE development♡ 
+- 👋 Hi, I’m nayeon(@Clover0817)!
+- 👀 For now, I'm focusing on BE development.
 - 🌱 I use c&java Language mostly
-- 💞️ I'm college student, my major is Computer Science!
+- 💞️ I'm student, majoring in Computer Science!
 - 📫 How to reach me -> skdus3373@gmail.com(skdus3373@naver.com)
 
 ![image](https://user-images.githubusercontent.com/77714668/192198434-52ca6236-799e-44d5-b908-a38f2bed374e.png)
