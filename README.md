@@ -1,5 +1,5 @@
 💪About me
-- 👋 Hi, I’m nayeon(@Clover0817)!
+- 👋 Hi, I’m Nayeon(@Clover0817) :)
 - 👀 For now, I'm focusing on BE development.
 - 🌱 I use c&java Language mostly
 - 💞️ I'm student, majoring in Computer Science!
