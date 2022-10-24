@@ -5,7 +5,7 @@
 - 💞️ I'm student, majoring in Computer Science!
 - 📫 How to reach me -> skdus3373@gmail.com(skdus3373@naver.com) 
 
-![image](https://user-images.githubusercontent.com/77714668/192198434-52ca6236-799e-44d5-b908-a38f2bed374e.gif)
+![image](https://user-images.githubusercontent.com/77714668/192198434-52ca6236-799e-44d5-b908-a38f2bed374e.png)
 
 💪Skills
 <br>
