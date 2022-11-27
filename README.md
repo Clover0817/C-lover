@@ -1,7 +1,7 @@
 💪About me
 - 👋 Hi, I’m Nayeon(@Clover0817) :)
-- 👀 For now, I'm focusing on BE development.
-- 🌱 I use c&java Language mostly.
+- 👀 For now, I'm focusing on Web FE/BE development.
+- 🌱 I use C & JAVA Language mostly.
 - 💞️ I'm student, majoring in Computer Science!
 - 📫 How to reach me -> skdus3373@gmail.com(skdus3373@naver.com) 
 
