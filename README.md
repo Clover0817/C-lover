@@ -1,6 +1,6 @@
 
 <div align=center>
-<h2>💞About me💞</h2><br>
+<h2>🐱About me🐱</h2><br>
   Hi, I’m Nayeon :> <br>
   I'm majoring in Computer Science.<br>
   I use JAVA & Python Language mostly.<br>
