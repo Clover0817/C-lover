@@ -47,8 +47,6 @@
 
 <div align=center>
 
-[![Clover's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover0817)](https://github.com/Clover0817/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clover0817)](https://github.com/Clover0817/github-readme-stats)
 
 </div>
