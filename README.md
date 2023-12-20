@@ -45,12 +45,6 @@
 <br>
 
 <div align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clover0817)](https://github.com/Clover0817/github-readme-stats)
-
-</div>
-
-<div align=center>
 🧘🏻‍♂️Studying..
 <br>
 🖤Salesforce Tech
