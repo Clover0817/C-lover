@@ -1,6 +1,6 @@
 
 <div align=center>
-  Hi, I’m Nayeon  <br>
+  Hi, I’m Nayeon ! <br>
   I'm majoring in Computer Science.<br>
   I use JAVA & Python Language mostly.<br>
   For now, focusing on Web FE/BE development.<br>
