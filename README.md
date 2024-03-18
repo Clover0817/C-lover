@@ -3,7 +3,7 @@
   Hi, I’m Nayeon ! <br>
   I'm majoring in Computer Science.<br>
   I use JAVA & Python Language mostly.<br>
-  For now, focusing on Web FE/BE development.<br>
+  For now, focusing on Mobility R&D.<br>
   <br>
   ::Contact Info:: <br> skdus3373@gmail.com <br>
 <br>
@@ -47,9 +47,5 @@
 <div align=center>
 🧘🏻‍♂️Studying..
 <br>
-🖤Salesforce Tech
-<br>
-🖤Spring framework
-<br>
-🖤Python-WebScraping
+🖤CATIA/M.E.C.A.
 </div>
