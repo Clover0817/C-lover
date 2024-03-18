@@ -11,7 +11,7 @@
 ![tayo](https://github.com/Clover0817/Clover0817/assets/77714668/31889669-f051-4bff-bac8-ebc5ef5048db)
 
 
-<!--![mascot](https://github.com/Clover0817/Clover0817/assets/77714668/dd13a755-3862-41b0-a454-ee68d6de4fe4)>
+<!--![mascot](https://github.com/Clover0817/Clover0817/assets/77714668/dd13a755-3862-41b0-a454-ee68d6de4fe4)>-->
 
 </div>
 <div align=center>
