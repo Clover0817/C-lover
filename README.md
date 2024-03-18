@@ -8,7 +8,7 @@
   ::Contact Info:: <br> skdus3373@gmail.com <br>
 <br>
 
-![image](https://github.com/Clover0817/Clover0817/assets/77714668/556bec32-0305-4da5-a377-4855027003f6)
+![image](https://github.com/Clover0817/Clover0817/assets/77714668/92561ddf-a18c-458a-9636-741dbe52962b)
 
 
 <!--![mascot](https://github.com/Clover0817/Clover0817/assets/77714668/dd13a755-3862-41b0-a454-ee68d6de4fe4)>-->
