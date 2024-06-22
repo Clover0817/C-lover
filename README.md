@@ -2,7 +2,7 @@
 <div align=center>
   Hi, I’m Nayeon ! <br>
   I'm majoring in Computer Science.<br>
-  I use JAVA & Python Language mostly.<br>
+  I use C & JAVA Language mostly.<br>
   For now, focusing on Mobility R&D.<br>
   <br>
   ::Contact Info:: <br> skdus3373@gmail.com <br>
